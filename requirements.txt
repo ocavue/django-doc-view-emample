@@ -1,0 +1,2 @@
+Django==2.0.2
+django-doc-view==0.1.0
