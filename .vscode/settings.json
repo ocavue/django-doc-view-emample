@@ -1,0 +1,6 @@
+{
+    "python.formatting.yapfArgs": [
+        "--style",
+        "{based_on_style: pep8, indent_width: 4, COLUMN_LIMIT: 79, DEDENT_CLOSING_BRACKETS: true, }"
+    ],
+}
