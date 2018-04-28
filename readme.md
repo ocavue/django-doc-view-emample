@@ -2,6 +2,10 @@
 
 A runable example for [django_doc_view](https://github.com/ocavue/django-doc-view)
 
+## requirements
+
+1. Django version >= 1.8, or you can't user `-f --format` [argument](https://stackoverflow.com/questions/30230490/django-custom-command-error-unrecognized-arguments)
+
 ## run server
 
 ```
